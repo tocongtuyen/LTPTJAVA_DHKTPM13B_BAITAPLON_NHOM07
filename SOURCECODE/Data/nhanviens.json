@@ -1,0 +1,48 @@
+{ 
+    "_id" : "01", 
+    "diaChi" : "go vap", 
+    "taikhoan" : {
+        "maDN" : "NV0001", 
+        "matkhau" : "Sa123456", 
+        "loaiTK" : NumberInt(1)
+    }, 
+    "loaiNV" : NumberInt(1), 
+    "tenNV" : "To Cong Tuyen", 
+    "sodt" : "0987730043"
+}
+{ 
+    "_id" : "NV0002", 
+    "diaChi" : "tphcm", 
+    "taikhoan" : {
+        "maDN" : "NV0002", 
+        "matkhau" : "Sa123456", 
+        "loaiTK" : NumberInt(2)
+    }, 
+    "loaiNV" : NumberInt(2), 
+    "tenNV" : "Nguyen Van An", 
+    "sodt" : "0123456789"
+}
+{ 
+    "_id" : "NV0003", 
+    "diaChi" : "ha noi", 
+    "taikhoan" : {
+        "maDN" : "NV0003", 
+        "matkhau" : "Sa123456", 
+        "loaiTK" : NumberInt(3)
+    }, 
+    "loaiNV" : NumberInt(3), 
+    "tenNV" : "Pham Thanh Duy", 
+    "sodt" : "0123456789"
+}
+{ 
+    "_id" : "NV0004", 
+    "diaChi" : "hcm", 
+    "taikhoan" : {
+        "maDN" : "NV0004", 
+        "matkhau" : "Sa123456", 
+        "loaiTK" : NumberInt(3)
+    }, 
+    "loaiNV" : NumberInt(3), 
+    "tenNV" : "Nguyen Nhu Hoa", 
+    "sodt" : "0123456789"
+}

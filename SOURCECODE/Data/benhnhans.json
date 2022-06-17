@@ -1,0 +1,40 @@
+{ 
+    "_id" : "01", 
+    "diaChi" : "go vap", 
+    "ngaysinh" : "1999-10-25", 
+    "sodt" : "0123456789", 
+    "gioiTinh" : "Nam", 
+    "tenBN" : "Nguyen Van A"
+}
+{ 
+    "_id" : "BN0002", 
+    "diaChi" : "tphcm", 
+    "ngaysinh" : "2000-09-07", 
+    "sodt" : "0987730043", 
+    "gioiTinh" : "Nữ", 
+    "tenBN" : "Nguyen Thi B"
+}
+{ 
+    "_id" : "BN0003", 
+    "diaChi" : "Bien Hoa, Dong Nai", 
+    "ngaysinh" : "1997-06-06", 
+    "sodt" : "0976463513", 
+    "gioiTinh" : "Nữ", 
+    "tenBN" : "Le Thi C"
+}
+{ 
+    "_id" : "BN0004", 
+    "diaChi" : "Vung tau1", 
+    "ngaysinh" : "2001-02-02", 
+    "sodt" : "0124454587", 
+    "gioiTinh" : "Nữ", 
+    "tenBN" : "Huynh Thi D"
+}
+{ 
+    "_id" : "BN0005", 
+    "diaChi" : "Ha Noi", 
+    "ngaysinh" : "1997-03-03", 
+    "sodt" : "0125676424", 
+    "gioiTinh" : "Nam", 
+    "tenBN" : "Ho Van E"
+}

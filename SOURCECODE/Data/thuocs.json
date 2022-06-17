@@ -1,0 +1,18 @@
+{ 
+    "_id" : "01", 
+    "thanhPhan" : "heroin", 
+    "nhomThuoc" : "thuoc hut", 
+    "tenThuoc" : "Thuoc la"
+}
+{ 
+    "_id" : "2", 
+    "thanhPhan" : "hrt", 
+    "nhomThuoc" : "Trị cảm, cúm", 
+    "tenThuoc" : "paradon2"
+}
+{ 
+    "_id" : "3", 
+    "thanhPhan" : "xyz", 
+    "nhomThuoc" : "Thuốc gây tê, mê", 
+    "tenThuoc" : "giam dau"
+}

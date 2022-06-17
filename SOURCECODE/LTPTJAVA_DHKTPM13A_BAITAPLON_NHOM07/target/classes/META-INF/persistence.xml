@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="LTPTJAVA_DHKTPM13A_BAITAPLON_NHOM07">
+	<provider>org.hibernate.ogm.jpa.HibernateOgmPersistence</provider>
+	<class>entities.BenhNhan</class>
+	<class>entities.ChiTietToaThuoc</class>
+	<class>entities.NhanVien</class>
+	<class>entities.TaiKhoan</class>
+	<class>entities.Thuoc</class>
+	<class>entities.ToaThuoc</class>
+	<class>entities.PK_CTTT</class>
+	<properties>
+		<property name="hibernate.ogm.datastore.provider" value="mongodb"/>
+		<property name="hibernate.ogm.datastore.host" value="localhost"/>
+		<property name="hibernate.ogm.datastore.port" value="27017"/>
+		<property name="hibernate.ogm.datastore.database" value="phongkhamdb"/>
+		<property name="hibernate.ogm.datastore.create_database" value="true"/>
+	</properties>
+	</persistence-unit>
+</persistence>
